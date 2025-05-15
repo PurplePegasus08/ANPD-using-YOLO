@@ -46,3 +46,4 @@ ocr_results/
 
 # Python egg
 *.egg-info/
+Model/archive (1)/handwritten_data_785.csv
