@@ -3,3 +3,46 @@
 /home/pegasus/Documents/NUMBERplates/Model
 /home/pegasus/Documents/NUMBERplates/output_images
 /home/pegasus/Documents/NUMBERplates/My First Project.v10i.yolov81
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PaddleOCR models and cache
+inference/
+output/
+ocr_results/
+
+# Image files, optionally
+*.jpg
+*.png
+
+# Python egg
+*.egg-info/
