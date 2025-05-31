@@ -28,5 +28,5 @@ It’s fast, accurate, and modular — perfect for smart traffic systems, parkin
 
 ---
 
-## 📂 Project Structure
+
 
